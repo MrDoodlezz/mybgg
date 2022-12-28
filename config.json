@@ -4,14 +4,14 @@
         "title": ""
     },
     "boardgamegeek": {
-        "user_name": "MrDoodlezz",
+        "user_name": "",
         "extra_params": {
             "own": 1
         }
     },
     "algolia": {
-        "app_id": "6A7IISM7YE",
-        "api_key_search_only": "f68186776b483137e29d6f0a5c0a7326",
+        "app_id": "",
+        "api_key_search_only": "",
         "index_name": "YOUR_INDEX_NAME",
         "hits_per_page": 24
     }
